@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+
+
+<head>
+    <title>Christopher James Gentlemen's Hair Salon</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <link href="css/custom.css" rel="stylesheet" media="screen">
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <div class="container pt-2">
+        <div class="row">
+            <div class="span12">
+                <div class="hero-unit">
+                    <h1>Christopher James Gentlemen's Hair Salon</h1>
+                    <p class="alignleft"></p>
+                    <p class="phoneno alignright"></p>
+                    <div style="clear: both;"></div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <div class="news">
+                    {% capture my_include %}{% include_relative news.md %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="span12 footer">
+                <small>© 2020 Christopher James Gentlemen's Hair Salon. Website Designed by Harry.</small>
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+</html>
