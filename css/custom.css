@@ -102,7 +102,7 @@ hr {
     padding: 0 4px;
 }
 
-.icolumn img {
+.icolumn img, .padimg {
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
