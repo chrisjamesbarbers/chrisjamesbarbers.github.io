@@ -8,6 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet" media="screen">
 </head>
 
@@ -15,42 +18,137 @@
     <script src="https://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
-    <div class="container pt-2">
-        <div class="row">
-            <div class="span12">
-                <div class="hero-unit">
-                    <h1>Christopher James</h1>
-                    <p class="alignleft">Gentlemen's Hair Salon in Bramhall</p>
-                    <p class="phoneno alignright">0161 440 7876</p>
-                    <div style="clear: both;"></div>
-
-                </div>
-            </div>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">Christopher James</h1>
+            <p class="alignleft">Gentlemen's Hair Salon in Bramhall</p>
+            <p class="phoneno alignright">0161 440 7876</p>
+            <div style="clear: both;"></div>
         </div>
     </div>
 
-    <div class="container">
+    <div class="container-lg">
         <div class="row">
-            <div class="span12">
+            <div class="col"></div>
+            <div class="col-md-9">
                 <div class="news">
                     {% capture my_include %}{% include_relative news.md %}{% endcapture %}
                     {{ my_include | markdownify }}
                 </div>
             </div>
+            <div class="col"></div>
         </div>
 
-
+        <hr />
 
         <div class="row">
-            <div class="span12 footer">
+            <div class="col-4">
+                <img src="img/post1.jpeg" width="100%">
+            </div>
+            <div class="col">
+                {% capture my_include %}{% include_relative post1.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="row">
+            <div class="col">
+                {% capture my_include %}{% include_relative post2.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+            </div>
+            <div class="col-4">
+                <img src="img/post2.jpeg" width="100%">
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="row light p-3">
+            <div class="col m-3">
+                <div>
+                    {% capture my_include %}{% include_relative info-telephone.md %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                </div>
+            </div>
+
+            <div class="col m-3">
+                <div>
+                    {% capture my_include %}{% include_relative info-facebook.md %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                </div>
+            </div>
+            <div class="col  m-3">
+                <div>
+                    {% capture my_include %}{% include_relative info-address.md %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                </div>
+            </div>
+        </div>
+
+        <div class="row light px-3 pb-4">
+            <div class="col">
+                <img src="img/image1.jpeg" width="100%">
+            </div>
+            <div class="col">
+                <img src="img/image2.jpeg" width="100%">
+            </div>
+            <div class="col">
+                <img src="img/image3.jpeg" width="100%">
+            </div>
+        </div>
+
+        <hr />
+
+        <div class="row mt-3">
+            <div class="col">
+                {% capture my_include %}{% include_relative services.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+            </div>
+            <div class="col">
+                {% capture my_include %}{% include_relative hours.md %}{% endcapture %}
+                {{ my_include | markdownify }}
+            </div>
+        </div>
+
+        <hr />
+        <div class="row mt-3">
+            <h2>Style Gallery</h2>
+            <div class="irow">
+                <div class="icolumn">
+                    <img src="img/gallery/1.jpg">
+                    <img src="img/gallery/2.jpg">
+                    <img src="img/gallery/3.jpg">
+                    <img src="img/gallery/4.jpg">
+                </div>
+                <div class="icolumn">
+                    <img src="img/gallery/5.jpg">
+                    <img src="img/gallery/6.jpg">
+                    <img src="img/gallery/7.jpg">
+                    <img src="img/gallery/8.jpg">
+                </div>
+                <div class="icolumn">
+                    <img src="img/gallery/9.jpg">
+                    <img src="img/gallery/10.jpg">
+                    <img src="img/gallery/11.jpg">
+                    <img src="img/gallery/12.jpg">
+                </div>
+                <div class="icolumn">
+                    <img src="img/gallery/13.jpg">
+                    <img src="img/gallery/14.jpg">
+                    <img src="img/gallery/15.jpg">
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="footer">
                 <small>© 2020 Christopher James Gentlemen's Hair Salon. Website Designed by Harry.</small>
             </div>
         </div>
+
     </div>
-
-
-
-
 </body>
 
 </html>

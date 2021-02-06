@@ -1,11 +1,44 @@
-@media (max-width: 767px) {
-    .hero-unit {
-        padding: 40px;
-    }
+body {
+    background-color: #cbc7dd;
+    font-family: 'Noto Serif', serif;
+}
 
-    .hero-unit h1 {
-        font-size: 40px;
-    }
+h1,
+h2,
+h3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+    font-size: medium;
+}
+
+h2 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: large;
+    line-height: 150%;
+}
+
+.alert {
+    font-size: large;
+    border: none;
+    text-shadow: none;
+    line-height: 150%;
+    border-radius: 0;
+}
+
+.light {
+    background-color: #afa6c8;
+    color: black;
+}
+
+.dark {
+    background-color: #565066;
+    color: white;
 }
 
 .alignleft {
@@ -20,7 +53,19 @@
     font-weight: bold;
 }
 
-body {
+.jumbotron {
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background-color: #6c19c4;
+    color: #ffffff;
+}
+
+.jumbotron h1 {
+    font-size: 4em;
+}
+
+.jumbotron p {
+    font-size: 2em;
     margin-top: 1em;
 }
 
@@ -34,26 +79,74 @@ body {
 }
 
 .news {
-    background-color: lightblue;
-    padding: 15px;
+    padding: 3em 1em 0em;
     border-radius: 6px;
 }
 
-table {
+hr {
+    text-align: center;
+    margin: 3em 10%;
+    max-width: 80%;
+}
+
+.irow {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.icolumn {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.icolumn img {
+    margin-top: 8px;
+    vertical-align: middle;
     width: 100%;
-    margin-bottom: 1em;
 }
 
-.rate-container {
-    background-color: #eee;
-    border-radius: 3px;
+
+@media (max-width: 576px) {
+    .icolumn {
+        flex: 100%;
+        max-width: 100%;
+    }
 }
 
-.rate-cell {
-
-}
 @media (max-width: 767px) {
-.rate-content {
-    padding-left: 1em;
-}
+    .icolumn {
+        flex: 50%;
+        max-width: 50%;
+    }
+
+    .rate-content {
+        padding-left: 1em;
+    }
+
+    .jumbotron {
+        padding: 1em 2em;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+
+    .jumbotron h1 {
+        font-size: 40px;
+    }
+
+    .container {
+        padding-left: 1em;
+        padding-right: 1em;
+    }
+
+    .jumbotron {
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+
+    .jumbotron h1 {
+        font-size: 40px;
+    }
 }
