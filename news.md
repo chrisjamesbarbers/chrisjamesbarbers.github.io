@@ -1,5 +1,5 @@
 
-## Sorry we are currently closed.
+## We're opening again on Monday 12th April !
 
 <div class="alert dark" role="alert">
 Hi Everybody, 
