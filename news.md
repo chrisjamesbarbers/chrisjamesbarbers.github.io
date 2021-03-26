@@ -2,9 +2,9 @@
 ## We're opening again on Monday 12th April !
 
 <div class="alert dark" role="alert">
-Hi Everybody, 
+Hi Everybody,
   
-I hope you're all keeping safe and well through this 2nd long lockdown - it's been a tough time for all concerned but everbody's health is at the forefront of everything - even with long hair! 
+  I hope you're all keeping safe and well through this 2nd long lockdown - it's been a tough time for all concerned but everbody's health is at the forefront of everything - even with long hair! 
   
 As you know we will, all being well, be opening on Monday 12th april and Rayne and I are really loocking forward to starting again and seeing you all safe and well. 
 
