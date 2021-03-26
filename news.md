@@ -12,6 +12,8 @@ As with the previous lockdowns, all those people who had a pre-existing appointm
 
 Both myself and Rayne would like to send our best wishes to you all and to thank you all so much for your fantastic and continued support through a difficult time for everyone! 
 
-Look forward to catching up, kindest wishes Chris and Rayne x
+Look forward to catching up!
+
+Kindest wishes, Chris and Rayne x
 
 </div>
