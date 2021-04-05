@@ -4,20 +4,17 @@
 Hi Everybody,
 
 
-I hope you're all keeping safe and well through this 2nd long lockdown - it's been a tough time for all concerned but everbody's health is at the forefront of everything - even with long hair! 
+We hope you have all stayed safe through this long 3 months 2nd lockdown?
 
 
-As you know we will, all being well, be opening on Monday 12th april and Rayne and I are really loocking forward to starting again and seeing you all safe and well. 
+All being well we will be reopening Christopher James Barbers again on Monday 12th april when myself and Rayne are so looking forward to seeing all our fantastic loyal clients again. 
 
 
-As with the previous lockdowns, all those people who had a pre-existing appointments booked with us both in January and Febuary 2021 will be contacted first to rebook. Then we will be at the barbers on Monday 5th, Tuesday 6th, Friday 9th and Saturday 10th April between 11-30am to 2-30pm where you can contact us by phone or call in to see us and book on our list. 
+As in the previous long closure we are, as you understand, going to be extremely busy and we will endeavour to get round to seeing to all you long hair gentlemen. But once again out of courtesy could you all kindly exercise some patience and we will all get through this busy period together.
 
 
-Both myself and Rayne would like to send our best wishes to you all and to thank you all so much for your fantastic and continued support through a difficult time for everyone! 
+As before, those clients who had pre-existing appointments will be contacted from Tuesday 6th April unless already contacted earlier. Then all other free appointment spaces left will be booked in on first come basis. You can contact both myself and Rayne on Tuesday 6th, Friday 9th and Saturday 10th April from 11.30am to 2pm. 
 
-
-Look forward to catching up!
-
-
-Kindest wishes, Chris and Rayne x
+Once again, thanks for your fantastic and continued support in what has been a dreadful time for all of us. 
+Kindest wishes always, Chris and Rayne
 
