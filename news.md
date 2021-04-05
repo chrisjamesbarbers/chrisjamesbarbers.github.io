@@ -16,5 +16,7 @@ As in the previous long closure we are, as you understand, going to be extremely
 As before, those clients who had pre-existing appointments will be contacted from Tuesday 6th April unless already contacted earlier. Then all other free appointment spaces left will be booked in on first come basis. You can contact both myself and Rayne on Tuesday 6th, Friday 9th and Saturday 10th April from 11.30am to 2pm. 
 
 Once again, thanks for your fantastic and continued support in what has been a dreadful time for all of us. 
+
+
 Kindest wishes always, Chris and Rayne
 
