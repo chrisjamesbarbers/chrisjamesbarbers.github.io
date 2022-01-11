@@ -1,6 +1,6 @@
 ## Welcome, Rayne!
 
-**Hello, my name is Rayne, and I recently started at Christopher James in Bramhall!**
+**Hello, my name is Rayne, and I've recently started at Christopher James in Bramhall!**
 
 I’m very excited to have started here even if these are strange times for us all!
 
