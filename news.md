@@ -17,6 +17,8 @@ Sun 1st Jan – Mon 2nd Jan	-	Closed
 
 Tues 3rd Jan	-	Open as usual
 
+
+
 Chris and Rayne would like to wish all our customers a Merry Xmas and a Happy New Year!
 
 Thanks for all your continued support.
