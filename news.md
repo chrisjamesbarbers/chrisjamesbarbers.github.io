@@ -1,9 +1,11 @@
 
-## Notice - Price Increases 
+## Notice - Christmas Opening Times 
 
-As of Monday 18th July 2022, there will be a price increase on all haircuts of £1.00.
-This is due to a rise in all costs.
-
-Sorry for any inconvenience. 
-
-Kind regards, Christopher James Barber Shop.
+Mon 19th Dec – Fri 23rd Dec - Open as usual
+Sat 24 Xmas Eve	- Open till 2pm
+Sun 25th – Wed 28th  Dec	-	Closed
+Thus 29th Dec -	Open as usual
+Fri 30th Dec	-	Open as usual
+Sat 31st Dec (New Year’s Eve)	-	Open till 4:30pm
+Sun 1st Jan – Mon 2nd Jan	-	Closed
+Tues 3rd Jan	-	Open as usual
