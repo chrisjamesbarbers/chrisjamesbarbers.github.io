@@ -16,6 +16,6 @@ Wed 3rd Jan - Open as usual.
 
 ### Chris and Rayne would like to wish all our customers 
 
-### A very Merry Christmas and A Lovely New Year for 2004
+### a very Merry Christmas and a Lovely New Year for 2024
 
 ### Kind regards, Chris and Rayne
