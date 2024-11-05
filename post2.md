@@ -2,7 +2,7 @@
 
 Christopher James Barbers in Bramhall, Stockport, Cheshire
 
-urgently requires an experienced barber with an immidiate start. 
+urgently requires an experienced barber with an immediate start. 
 
 Must be experienced in all aspects of mens and boys hairdressing, 
 both modern and traditional haircuts for all age groups. 
