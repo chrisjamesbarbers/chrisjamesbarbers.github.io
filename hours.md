@@ -1,5 +1,6 @@
 ### Opening Hours
 
+
 {: .table .table-striped}
 | Day | Opening Hours | Last Appointment |
 | ----------------- | --------: | --------: |
