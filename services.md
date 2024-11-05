@@ -1,4 +1,4 @@
-### Services and Prices with effect from November 2024
+### Services and Prices ~ November 2024
 
 {: .table .table-striped}
 | Service | Price |
