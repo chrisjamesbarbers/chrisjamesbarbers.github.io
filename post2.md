@@ -1,13 +1,18 @@
-## Welcome, Rayne!
+## Vacancy for Experienced Barber!
 
-**Hello, my name is Rayne, and I've recently started at Christopher James in Bramhall!**
+Christopher James Barbers in Bramhall, Stockport, Cheshire
 
-I’m very excited to have started here even if these are strange times for us all!
+urgently requires an experienced barber with an immidiate start. 
 
-I’m really enjoying being in the shop and look forward to meeting all the existing and new customers who have been so lovely and welcoming.
+Must be experienced in all aspects of mens and boys hairdressing, 
+both modern and traditional haircuts for all age groups. 
 
-A little bit about myself, I’m trained to Level 3 NVQ Barbering and have been doing barbering for 10 years now! I’ve also got my Barbercide certificate.
+Applicant must be totally reliable.
 
-Look forward to meeting you all! 
+Postion is on a self employed basis / chair rental, with great earning potential for the right applicant.
 
-Rayne
+** All enquiries please tel 0161-440-7876 **
+
+** or email chrisjameshairsalon@gmail.com **
+
+Kind regards, Chris
