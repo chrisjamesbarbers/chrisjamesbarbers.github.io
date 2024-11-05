@@ -1,3 +1,3 @@
 ### Facebook
 
-Find us on [Facebook](https://www.facebook.com/chrisjamesbarbers/) for our latest offers and information.
+Find us on [Facebook](https://www.facebook.com/profile.php?id=100009550519978) for our latest offers and information.
