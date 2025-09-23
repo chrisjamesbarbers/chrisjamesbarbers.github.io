@@ -1,5 +1,4 @@
-## Would all customers please kindly note 
-We will be closed for holidays from:
+## Please note - we will be closed for holidays from:
 
 **Saturday 11th October 2025
 until
@@ -9,11 +8,10 @@ opening again on:
 
 **Tuesday 21st October 2025**
 
-Note that I will be very busy before
-and after my holiday.
+I expect to be very busy before
+and after my holiday so please 
 
-Please book appointments early 
-to avoid disappointment!
+book appointments early to avoid disappointment!
 
 Kind regards as always, 
 Chris
