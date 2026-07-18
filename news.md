@@ -1,4 +1,4 @@
-<!
+<!--
 ## Please note - we will be closed for holidays from:
 
 **Saturday 11th October 2025
@@ -17,4 +17,4 @@ book appointments early to avoid disappointment!
 Kind regards as always, 
 Chris
 
-!>
+--!>
