@@ -1,6 +1,6 @@
-<!-- Use the shreek to coment out text -->
+<!-- Use this format to comment out text -->
 
-<--
+
 ## Please note - we will be closed for holidays from:
 
 **Monday 5th October 2026
@@ -18,4 +18,4 @@ book appointments early to avoid disappointment!
 Kind regards as always, 
 Chris
 
--->
+
