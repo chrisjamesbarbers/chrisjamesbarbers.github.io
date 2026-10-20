@@ -3,19 +3,9 @@
 
 ## Important Update Regarding Appointments
 
-**Monday 5th October 2026
-until
-Thursday 15th October 2026**
+As a small business we truly appreciate the loyalty and support you show Christopher James Barbers. To ensure we can continue to provide the best service possible, we need to address a growing issue.
 
-opening again on:
-
-**Friday 16th October 2026**
-
-I expect to be very busy before
-and after my holiday so please 
-book appointments early to avoid disappointment!
-
-Kind regards as always, 
-Chris
+Kind regards, 
+**Chris**
 
 
