@@ -10,6 +10,7 @@ Lately, we have seen an increase in **"no-shows"** - appointments booked but not
 To protect our business, we are implementing the following policy effective from 8th May 2026:
 
 **- 24 Hour Notice:** we require at least 24 hours' notice for any cancellation or rescheduling.
+
 **- Cancellation Fee:** appointments cancelled with less that 24 hours' notice, or missed entirely, will be **CHARGED IN FULL**.
 
 We value your time and ask that you please respect ours. 
