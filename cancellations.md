@@ -14,6 +14,7 @@ To protect our business, we are implementing the following policy effective from
 **- Cancellation Fee:** appointments cancelled with less that 24 hours' notice, or missed entirely, will be **CHARGED IN FULL**.
 
 We value your time and ask that you please respect ours. 
+
 Thank you for your understanding and supporting local business.
 
 Kind regards, 
