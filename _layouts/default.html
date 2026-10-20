@@ -41,6 +41,20 @@
 
         <hr />
 
+    <div class="container-lg">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col-md-9">
+                <div class="news">
+                    {% capture my_include %}{% include_relative news.md %}{% endcapture %}
+                    {{ my_include | markdownify }}
+                </div>
+            </div>
+            <div class="col"></div>
+        </div>
+        
+        <hr />
+        
         <div class="row">
             <div class="col-md-4">
                 <img src="img/post1.jpeg" width="100%">
